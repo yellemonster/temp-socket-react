@@ -1,0 +1,130 @@
+.c-b {
+  color: var(--blu) !important;
+}
+
+.c-g {
+  color: var(--grn) !important;
+}
+
+.c-r {
+  color: var(--red) !important;
+}
+
+.c-y {
+  color: var(--ylw) !important;
+}
+
+.c-wht {
+  color: var(--wht) !important;
+}
+.c-gry {
+  color: rgb(125, 125, 125);
+}
+
+.c-res {
+  color: var(--res);
+}
+.c-utl {
+  color: var(--utl);
+}
+
+.c-m {
+  color: var(--mag);
+}
+.c-o {
+  color: var(--orn);
+}
+
+/* ======================================================= */
+
+.b-b {
+  border: 3px solid var(--blu) !important;
+}
+.b-g {
+  border: 3px solid var(--grn) !important;
+}
+.b-r {
+  border: 3px solid var(--red) !important;
+}
+.b-y {
+  border: 3px solid var(--ylw) !important;
+}
+.b-blk {
+  border: 3px solid rgb(20, 20, 20, 0.5) !important;
+}
+.b-wht {
+  border: 3px solid rgb(250, 250, 250) !important;
+}
+/* ======================================================= */
+
+.b-b-5 {
+  border: 5px solid var(--blu) !important;
+}
+.b-g-5 {
+  border: 5px solid var(--grn) !important;
+}
+.b-r-5 {
+  border: 5px solid var(--red) !important;
+}
+.b-y-5 {
+  border: 5px solid var(--ylw) !important;
+}
+.b-blk-5 {
+  border: 5px solid rgb(20, 20, 20) !important;
+}
+.b-wht-5 {
+  border: 5px solid rgb(250, 250, 250) !important;
+}
+/* ======================================================= */
+
+.b-b-2 {
+  border: 2px solid var(--blu) !important;
+}
+.b-g-2 {
+  border: 2px solid var(--grn) !important;
+}
+.b-r-2 {
+  border: 2px solid var(--red) !important;
+}
+.b-y-2 {
+  border: 2px solid var(--ylw) !important;
+}
+.b-blk-2 {
+  border: 2px solid rgb(20, 20, 20) !important;
+}
+.b-wht-2 {
+  border: 2px solid rgb(250, 250, 250) !important;
+}
+.b-m-2 {
+  border: 2px solid var(--mag) !important;
+}
+.b-o-2 {
+  border: 2px solid var(--orn) !important;
+}
+.b-res-2 {
+  border: 2px solid var(--res) !important;
+}
+.b-utl-2 {
+  border: 2px solid var(--utl) !important;
+}
+
+/* ======================================================= */
+
+.b-b-1 {
+  border: 1px solid var(--blu) !important;
+}
+.b-g-1 {
+  border: 1px solid var(--grn) !important;
+}
+.b-r-1 {
+  border: 1px solid var(--red) !important;
+}
+.b-y-1 {
+  border: 1px solid var(--ylw) !important;
+}
+.b-blk-1 {
+  border: 1px solid rgb(20, 20, 20) !important;
+}
+.b-wht-1 {
+  border: 1px solid rgb(250, 250, 250) !important;
+}

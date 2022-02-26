@@ -1,0 +1,23 @@
+.Panel {
+  background: rgba(0, 0, 0, 0.2);
+  padding: var(--padding);
+  border: var(--border);
+}
+
+/* ================================================== */
+
+.Panel-LT {
+  background: rgba(0, 0, 0, 0.1);
+  box-shadow: var(--boxShadow);
+  padding: var(--padding);
+  border: var(--border);
+}
+
+/* ================================================== */
+
+.Glass {
+  background: rgba(255, 255, 255, 0.03);
+  box-shadow: var(--boxShadow);
+  padding: var(--padding);
+  border: var(--border);
+}

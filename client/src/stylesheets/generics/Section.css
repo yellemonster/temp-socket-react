@@ -1,0 +1,30 @@
+.Section {
+  border: none;
+}
+
+.Section-Label {
+  font-size: 4rem;
+  text-align: center;
+  text-shadow: var(--boxShadow);
+}
+
+.Section-Element {
+  border: none;
+}
+
+.Section-Element-Label {
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+
+.Section-Element-Label > span {
+  margin-left: 1rem;
+  margin-top: 0.2rem;
+}
+
+.Section-Element > .Glass {
+  display: flex;
+  flex-direction: column;
+}
+
+/* ================================================ */

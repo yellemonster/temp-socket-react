@@ -1,0 +1,14 @@
+.Datafield {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Datafield > div {
+  font-size: 1.5rem;
+}
+
+.Datafield > div:last-child {
+  color: var(--gold);
+  margin-left: 2rem;
+}

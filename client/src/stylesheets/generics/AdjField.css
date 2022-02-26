@@ -1,0 +1,16 @@
+.AdjField {
+  display: grid;
+  align-items: center;
+  grid-gap: 1rem;
+  grid-template-columns: 2fr 3fr 2fr;
+}
+
+.AdjField > div:nth-child(2) {
+  padding-top: 0.4rem;
+  font-size: 1.8rem;
+  text-align: center;
+  align-self: stretch;
+  border: var(--border);
+  color: rgba(148, 233, 233, 0.9);
+  background: var(--ltBG);
+}

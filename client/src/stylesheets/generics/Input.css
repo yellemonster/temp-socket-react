@@ -1,0 +1,15 @@
+.Input {
+  border: var(--border);
+  background-color: rgba(255, 255, 255, 0.03);
+
+  align-content: center;
+  padding: 0.5rem;
+  font-size: 1.6rem;
+
+  color: var(--blu);
+}
+
+.Input::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+  font-size: inherit;
+}

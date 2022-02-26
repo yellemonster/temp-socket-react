@@ -1,0 +1,26 @@
+* {
+  --borderRadius: 0.3rem;
+  --transition: 0.2s;
+  --padding: 0.5rem;
+  --border: 1px solid rgb(0, 0, 0, 0.3);
+  --boxShadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  --background: linear-gradient(
+    200deg,
+    rgb(65, 65, 65) 0%,
+    rgba(55, 55, 55) 100%
+  );
+}
+
+.App {
+  padding: 1rem;
+  position: relative;
+  display: flex;
+}
+
+.App > .Panel {
+  margin-right: 1rem;
+}
+
+.myHr {
+  border-top: 2px solid rgb(40, 40, 40);
+}
